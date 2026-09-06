@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "command-line-basics"
+owner:
+  username: "semka39"
+  id: 86042183
+  accepted_at: "2026-09-06T16:36:58Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-command-line-basics"
+  branch: "main"
